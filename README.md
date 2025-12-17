@@ -61,7 +61,7 @@ git clone https://github.com/ate20031/ZooMarket.git
 ## 📌 Author
 
 **Kateryna Pavlichenko** – Passionate web developer and pet lover.
-Connect on [GitHub](https://github.com/kate20031) | [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/kateryna-pavlichenko-87b07235b))
+Connect on [GitHub](https://github.com/kate20031) | [LinkedIn]((https://www.linkedin.com/in/kateryna-pavlichenko-87b07235b))
 
 ---
 
